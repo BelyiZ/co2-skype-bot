@@ -1,4 +1,4 @@
-FROM nodesource/node:4.0
+FROM node:7.2.1
 
 # Create app directory
 RUN mkdir -p /usr/src/app
